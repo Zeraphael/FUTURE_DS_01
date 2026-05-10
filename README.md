@@ -107,7 +107,7 @@ Key Metrics:
 📁 Project Structure
 
 - 📓 Jupyter Notebook (Data Cleaning & Preparation)
-- 📊 Power BI Dashboard
+- 📊 Power BI Dashboard Online_Retail_Analysis.pbix
 - 🖼️ Dashboard Screenshot
 - 📄 README
 
