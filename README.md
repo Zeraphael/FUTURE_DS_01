@@ -1,4 +1,4 @@
-📊 Online Retail Sales Analysis Project
+📊 Online Retail Sales Analysis Project:  
 Full project can be found in [Github](github.com/Zeraphael)
 
 📌 Project Overview
