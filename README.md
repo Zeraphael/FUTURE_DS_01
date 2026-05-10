@@ -108,7 +108,7 @@ Key Metrics:
 
 - 📓 Jupyter Notebook (Data Cleaning & Preparation)
 - 📊 [Power BI Dashboard[(https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Online_Retail_Analysis.pbix)
-- 🖼️ Dashboard Screenshot
+- 🖼️ [Dashboard Screenshot](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Dashboard.png)
 - 📄 README
 
 ---
