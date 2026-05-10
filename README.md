@@ -107,7 +107,7 @@ Key Metrics:
 📁 Project Structure
 
 - 📓 [Jupyter Notebook (Data Cleaning & Preparation)](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Retain_Analysis.ipynb)
-- 📊 [Power BI Dashboard[(https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Online_Retail_Analysis.pbix)
+- 📊 [Power BI Dashboard](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Online_Retail_Analysis.pbix)
 - 🖼️ [Dashboard Screenshot](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Dashboard.png)
 - 📄 README
 
