@@ -1,4 +1,5 @@
-📊 Online Retail Sales Analysis
+📊 Online Retail Sales Analysis Project
+Full project can be found in [Github](github.com/Zeraphael)
 
 📌 Project Overview
 
@@ -104,12 +105,12 @@ Key Metrics:
 
 ---
 
-📁 Project Structure
+📁 Project files
 
 - 📓 [Jupyter Notebook (Data Cleaning & Preparation)](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Retain_Analysis.ipynb)
 - 📊 [Power BI Dashboard](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Online_Retail_Analysis.pbix)
 - 🖼️ [Dashboard Screenshot](https://github.com/Zeraphael/FUTURE_DS_01/blob/main/Dashboard.png)
-- 📄 README
+
 
 ---
 
